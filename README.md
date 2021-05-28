@@ -13,4 +13,4 @@ Read more about my research on the electronic structure of core excitations via 
 - A friendly hello!  
 
 ## Contact Info:
-Reach me anytime at <smgarner.229@gmail.com>  
+Reach me anytime at <smgarner.229@gmail.com> or on Twitter [@THEScottGarner](https://twitter.com/THEScottGarner)
