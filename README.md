@@ -1,5 +1,5 @@
 # Scott Garner 
-Heyo!  I'm Scott and currently a graduate student in theoretical chemistry at UC Berkeley.
+Heyo!  I'm Scott and currently a PostDoc in theoretical chemistry at Princeton.  I completed my PhD at UC Berkeley and my undergrad at Ohio State.
 
 ## My Background
 I'm formally trained as a chemist, but I'm frequently following interests as they ebb and flow.  Common themes are Quantum Chemistry, The History of Computing, and Design of all forms.
