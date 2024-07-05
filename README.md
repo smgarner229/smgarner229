@@ -2,10 +2,10 @@
 Heyo!  I'm Scott and currently a PostDoc in theoretical chemistry at Princeton.  I completed my PhD at UC Berkeley and my undergrad at Ohio State.
 
 ## My Background
-I'm formally trained as a chemist, but I'm frequently following interests as they ebb and flow.  Common themes are Quantum Chemistry, The History of Computing, and Design of all forms.
+I'm formally trained as a chemist, but I'm frequently following interests as they ebb and flow.  Common themes are Quantum Chemistry, history told through science, design of all forms, 
 
 ##  My Research
-Read more about my research on the electronic structure of core excitations via [Quantum Monte Carlo](https://doi.org/10.1063/5.0020310) or [Excited State Mean Field Theory](https://doi.org/10.1063/5.0020595). *PS I too hate paywalls*
+I'm primarily interested in excited state chemical dynamics and spectorscopy.  Follow my latest work on my [Google Scholar](https://scholar.google.com/citations?user=x_tpFp4AAAAJ&hl=en&oi=ao)
 
 ## I'm Always Looking for...
 - Small projects to deep dive into
